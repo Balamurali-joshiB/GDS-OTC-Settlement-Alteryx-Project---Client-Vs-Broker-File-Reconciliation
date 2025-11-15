@@ -6,3 +6,4 @@
 ## This project focuses on the manual OTC derivatives settlement process executed weekly for external clients. The process is time-consuming and prone to human errors due to manual intervention. Additionally, there exists a potential data-security risk if incorrect account details are inadvertently included, as the settlement information is shared with the external counterparty’s (Broker) portfolio accounting team via email.
 
 # Alteryx Workflow Automation – GDS Broker vs Client Reconciliation:
+# Key Steps & Contributions in Alteryx Workflow:

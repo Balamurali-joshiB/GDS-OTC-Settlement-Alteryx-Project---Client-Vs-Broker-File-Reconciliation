@@ -12,7 +12,7 @@
 ## 2   Gathered pre-requisite data from internal teams and began workflow development in Alteryx.
 ## 3.  Designed the workflow with three core stages - Input, Processing, and Output stages.
 ## 4.  Integrated upstream data inputs (Excel or CSV files) into Alteryx, processed them through configured logic, and generated reconciled outputs automatically in a designated shared drive output folder.
-## 5.  Built a multi-level reconciliation process leveraging key fields such as Alert Code, Broker Code, Account, Quantity, Price, and Direction.
+## 5.  Built a multi-level reconciliation process leveraging primary key fields such as Alert Code, Broker Code, Account, Quantity, Price, and Direction.
 ## 6.  Submitted a baseline request with a unique project number for deployment approval.
 ## 7.  Conducted demos for both management and the Alteryx governance team prior to workflow publication in the Alteryx Gallery.
 ## 8.  Supported UAT (User Acceptance Testing) and facilitated smooth migration to production.

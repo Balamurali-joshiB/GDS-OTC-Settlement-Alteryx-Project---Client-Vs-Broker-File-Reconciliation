@@ -20,3 +20,10 @@
 ##                                a.  1.15 hours saved per week.
 ##                                b.  Reduced data breach risks.
 ##                                c.  Enhanced overall process efficiency.
+
+# Project Highlights & conclusion:
+## 1.  Eliminated manual touch points.
+## 2.  Reduced data breach risk by removing manual data handling and improving process governance.
+## 3.  Minimized turnaround time through reduced email communication between BNY and the Broker Fund Accounting Team, enhancing both efficiency and data security.
+## 4.  Achieved a time savings of approximately 90 minutes per week, equivalent to 0.20 FTE efficiency gain.
+## 5.  Improved processing time significantly — reduced from 2 hours to just 5 minutes per week.
